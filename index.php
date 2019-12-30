@@ -1,5 +1,5 @@
 <?php session_start();
-require_once('dbconnection.php');
+//require_once('dbconnection.php');
 
 //Code for Registration 
 if(isset($_POST['signup']))
