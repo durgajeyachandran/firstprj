@@ -49,7 +49,7 @@ exit();
 
 //Code for Forgot Password
 
-if(isset($_POST['send']))
+/*if(isset($_POST['send']))
 {
 $femail=$_POST['femail'];
 
@@ -69,7 +69,7 @@ else
 echo "<script>alert('Email not register with us');</script>";	
 }
 }
-
+*/
 ?>
 <!DOCTYPE html>
 <html>
